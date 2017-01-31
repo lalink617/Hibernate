@@ -1,4 +1,4 @@
-package objetos;
+package hibernate.objetos;
 
 import javax.persistence.Basic;
 import javax.persistence.Column;
