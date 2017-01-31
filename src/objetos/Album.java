@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import java.sql.Date;
 
 /**
- * Created by usuario on 31/01/17.
+ * Created by Raquel on 31/01/17.
  */
 @Entity
 public class Album {

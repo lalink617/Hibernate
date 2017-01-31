@@ -6,7 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * Created by usuario on 31/01/17.
+ * Created by Raquel on 31/01/17.
  */
 @Entity
 public class Cancion {
